@@ -10,8 +10,8 @@ If you are looking to learn web design, I highly recommend the freeCodeCamp cour
 
 ## Projects
 
-1. Survey Form 
-2. Tribute Page
-3. Technical Documentation Page
-4. Product Landing Page
-5. Personal Portfolio Webpage
+1. Survey Form ✅
+2. Tribute Page ✅
+3. Technical Documentation Page 🏗️
+4. Product Landing Page 🏗️
+5. Personal Portfolio Webpage 🏗️
